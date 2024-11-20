@@ -30,6 +30,7 @@
  
 5.	Praktek Sample Dataset pada Scikit-Learn
 1)	Load Sample dataset 
+
 -	Mengimport sklearn.datasets
  ![Deskripsi Gambar](images/gambar_tugas1/Picture13.png) 
 -	Mendata keys yang tersedia 
