@@ -7,7 +7,7 @@ ESTIYAN DWIPPRIYOKO, S.KOM., MT
 
 ![Deskripsi Gambar](images/unla.png) 
 
-Oleh : 
+Oleh :
 Nama	: Arip Hamzah
 NPM	: 41155050210008
 Kelas 	: Informatika B
