@@ -1,5 +1,7 @@
-TUGAS
+TUGAS	
+
 MACHINE LEARNING
+
 Dibuat untuk memenuhi salah satu tugas Mata Kuliah Machine Learning yang diampu oleh :
 
 ESTIYAN DWIPPRIYOKO, S.KOM., MT
@@ -11,13 +13,16 @@ Oleh :
 Nama	: Arip Hamzah
 
 NPM	: 41155050210008
-
+	
 Kelas 	: Informatika B
 
 JURUSAN TEKNIK INFORMATIKA
 FAKULTAS TEKNIK
+
 UNIVERSITAS LANGLANG BUANA
+
 BANDUNG
+
 2024
 1.	Instalasi Jupyter Noterbook
 -	Download 
