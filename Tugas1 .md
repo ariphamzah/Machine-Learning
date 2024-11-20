@@ -1,13 +1,17 @@
 TUGAS
 MACHINE LEARNING
 Dibuat untuk memenuhi salah satu tugas Mata Kuliah Machine Learning yang diampu oleh :
+
 ESTIYAN DWIPPRIYOKO, S.KOM., MT
 
-![Deskripsi Gambar](unla.png) 
+![Deskripsi Gambar](images/unla.png) 
 
 Oleh : 
+
 Nama	: Arip Hamzah
+
 NPM	: 41155050210008
+
 Kelas 	: Informatika B
 
 JURUSAN TEKNIK INFORMATIKA
