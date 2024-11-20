@@ -2,6 +2,7 @@ TUGAS
 MACHINE LEARNING
 
 Dibuat untuk memenuhi salah satu tugas Mata Kuliah Machine Learning yang diampu oleh :
+
 ESTIYAN DWIPPRIYOKO, S.KOM., MT
 
 ![Deskripsi Gambar](images/unla.png) 
@@ -18,8 +19,6 @@ BANDUNG
 2024
 1.	Instalasi Jupyter Noterbook
 -	Download 
- 
- 
 -	Instal library
  
 -	Membuka Jupyter Notebook
