@@ -3,7 +3,7 @@ MACHINE LEARNING
 Dibuat untuk memenuhi salah satu tugas Mata Kuliah Machine Learning yang diampu oleh :
 ESTIYAN DWIPPRIYOKO, S.KOM., MT
 
-![Deskripsi Gambar](images/nama_gambar.jpg) 
+![Deskripsi Gambar](images/unla.png) 
 
 Oleh : 
 Nama	: Arip Hamzah
