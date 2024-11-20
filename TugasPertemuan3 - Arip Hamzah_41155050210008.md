@@ -45,19 +45,24 @@
 2)	Pengenalan ensemble learning 
  
  ![Deskripsi Gambar](images/gambar_tugas3/Picture13.png)  
- 
-3)	Pengenalan bootstrao aggregating | Bagging 
  
- ![Deskripsi Gambar](images/gambar_tugas3/Picture14.png)  
+ 3) Pengenalan bootstrao aggregating | Bagging 
+
+![Deskripsi Gambar](images/gambar_tugas3/Picture14.png)  
 
 4)	Pengenalan Random Forest | Hutan Acak 
 
  ![Deskripsi Gambar](images/gambar_tugas3/Picture15.png)  
- 
-5)	Persiapan dataset | iris Flower dataset
+ 
+ 5)	Persiapan dataset | iris Flower dataset
+
  ![Deskripsi Gambar](images/gambar_tugas3/Picture16.png)  
+
 6)	Implementasi random forest classifier dengan scikit learn 
+
  ![Deskripsi Gambar](images/gambar_tugas3/Picture17.png)  
+
 7)	Evaluasi model dengan Classification Report 
+
  ![Deskripsi Gambar](images/gambar_tugas3/Picture18.png)  
 
